@@ -1,0 +1,9 @@
+Media dos saldos = R$55
+
+Informe o valor mínimo: 30.
+Códigos e saldos das contas com saldo maior que 30: 
+Codigo 1: R$100
+
+Depositos - Saques = R$0
+
+Total dos saldos = R$110
